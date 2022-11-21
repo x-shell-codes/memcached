@@ -4,7 +4,7 @@ Memcached install and configuration script.
 
 ## Features
 
-* Password protected.
+* Remote access server.
 
 ## Requirements
 
@@ -19,7 +19,7 @@ sudo bash memcached.sh
 
 #### Options
 
-- -p | --password Set password for redis server.
+- -r | --isRemote Is remote access server? (true/false).
 
 ## Attentions
 
